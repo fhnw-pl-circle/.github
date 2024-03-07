@@ -40,4 +40,4 @@ In this semester, each participant selects a language and presents it to their c
 | 19.01.2024 | [Nim](https://nim-lang.org/)                            | [Link](https://github.com/fhnw-pl-circle/nim)     | [Link](https://tube.switch.ch/videos/sIaiqO3sA7) |
 | 23.02.2024 | [Pony](https://www.ponylang.io/)                        | [Link](https://github.com/fhnw-pl-circle/pony)    | [Link](https://tube.switch.ch/videos/FjYQ25PqoE) |
 | 01.03.2024 | [Unison](https://www.unison-lang.org/)                  | [Link](https://github.com/fhnw-pl-circle/unison)  | [Link](https://tube.switch.ch/videos/hBY5IXXqSx) |
-| 08.03.2024 | [Racket](https://racket-lang.org/)                      | tbd     | tbd |
+| 08.03.2024 | [Racket](https://racket-lang.org/)                      | [Link](https://github.com/fhnw-pl-circle/racket)  | tbd |
