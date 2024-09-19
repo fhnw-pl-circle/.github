@@ -2,6 +2,19 @@
 
 This organisation hosts the repositories from the _PL-Circle_, a group of people interested in programming languages.
 
+## Autumn Semester 2024
+
+In this semester, each participant selects a language and presents it to their colleagues.
+
+### Schedule
+
+|Date        |Language                                                 |Repository                                         | Recording |
+|------------|---------------------------------------------------------|---------------------------------------------------|-----------|
+| 25.10.2024 | [Lean4](https://lean-lang.org/)                         | N/A                                               | N/A       |
+| 22.11.2024 | [Gleam](https://gleam.run/)                             | N/A                                               | N/A       |
+| 06.12.2024 | [Kitten](https://kittenlang.org/)                       | N/A                                               | N/A       |
+| 20.12.2024 | [APL](https://www.aplwiki.com/)                         | N/A                                               | N/A       |
+| 10.01.2025 | [Roc](https://www.roc-lang.org/)                        | N/A                                               | N/A       |
 
 ## Spring Semester 2024
 
