@@ -15,6 +15,7 @@ In this semester, each participant selects a language and presents it to their c
 | 06.12.2024 | [Kitten](https://kittenlang.org/)                       | N/A                                               | N/A       |
 | 20.12.2024 | [APL](https://www.aplwiki.com/)                         | N/A                                               | N/A       |
 | 10.01.2025 | [Roc](https://www.roc-lang.org/)                        | N/A                                               | N/A       |
+| 17.01.2025 | [Flix](https://flix.dev/)                               | N/A                                               | N/A       |
 
 ## Spring Semester 2024
 
