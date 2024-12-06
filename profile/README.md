@@ -12,7 +12,7 @@ In this semester, each participant selects a language and presents it to their c
 |------------|---------------------------------------------------------|---------------------------------------------------|-----------|
 | 25.10.2024 | [Tamarin](https://tamarin-prover.com/)                  | [Link](https://github.com/fhnw-pl-circle/tamarin) | N/A       |
 | 22.11.2024 | [Gleam](https://gleam.run/)                             | [Link](https://github.com/fhnw-pl-circle/gleam)   | N/A       |
-| 06.12.2024 | [Kitten](https://kittenlang.org/)                       | N/A                                               | N/A       |
+| 06.12.2024 | [Kitten](https://kittenlang.org/)                       | [Link](https://github.com/fhnw-pl-circle/kitten/) | N/A       |
 | 20.12.2024 | [APL](https://www.aplwiki.com/)                         | N/A                                               | N/A       |
 | 10.01.2025 | [Roc](https://www.roc-lang.org/)                        | N/A                                               | N/A       |
 | 17.01.2025 | [Flix](https://flix.dev/)                               | N/A                                               | N/A       |
