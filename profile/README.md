@@ -15,7 +15,7 @@ In this semester, each participant selects a language and presents it to their c
 | 06.12.2024 | [Kitten](https://kittenlang.org/)                       | [Link](https://github.com/fhnw-pl-circle/kitten/) | [Link](https://tube.switch.ch/videos/ISfblvvSJl) |
 | 20.12.2024 | [APL](https://www.aplwiki.com/)                         | [Link](https://github.com/fhnw-pl-circle/apl)     | N/A       |
 | 10.01.2025 | [Roc](https://www.roc-lang.org/)                        | [Link](https://github.com/fhnw-pl-circle/roc)     | [Link](https://tube.switch.ch/videos/zFFVLX0Api) |
-| 17.01.2025 | [Flix](https://flix.dev/)                               | [Link](https://github.com/fhnw-pl-circle/flix)    | N/A       |
+| 17.01.2025 | [Flix](https://flix.dev/)                               | [Link](https://github.com/fhnw-pl-circle/flix)    | [Link](https://tube.switch.ch/videos/NrDBWPlFbh) |
 
 ## Spring Semester 2024
 
