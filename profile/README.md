@@ -2,6 +2,28 @@
 
 This organisation hosts the repositories from the _PL-Circle_, a group of people interested in programming languages.
 
+## Spring Semester 2025
+
+This semester, we read the book [Crafting Interpreters](https://craftinginterpreters.com/contents.html).
+
+### Schedule
+
+|Date        |Chapter  | 
+|------------|---------
+| 07.03.2025 | 1,2     | 
+| 14.03.2025 | 3       |
+| 21.03.2025 | 4       |
+| 28.03.2025 | 5       |
+| 04.04.2025 | 6       |
+| 11.04.2025 | 7       |  
+| 02.05.2025 | 8       |
+| 09.05.2025 | 9       |
+| 16.05.2025 | 10      |
+| 23.05.2025 | 11      |
+| 30.05.2025 | 12      |
+| 06.06.2025 | 13      |
+| 13.06.2025 | Demo    |
+
 ## Autumn Semester 2024
 
 In this semester, each participant selects a language and presents it to their colleagues.
