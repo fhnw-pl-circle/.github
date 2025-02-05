@@ -8,6 +8,8 @@ This semester, we read the book [Crafting Interpreters](https://craftinginterpre
 
 ### Schedule
 
+We meet on Fridays from 13:00 to 14:00 via Teams.
+
 |Date        |Chapter  | 
 |------------|---------
 | 07.03.2025 | 1,2     | 
