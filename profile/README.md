@@ -23,7 +23,7 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 | 16.05.2025 | 11      |
 | 23.05.2025 | 12      |
 | 30.05.2025 | 13      |
-| 06.06.2025 | Florian (JS) [Repo](https://github.com/Flaverus/crafting_interpreters/tree/main/JavaScript) <br> Tobi (Scala) <br> Aaron (Haskell) [Repo](https://github.com/Aaronmacaron/lox) |
+| 06.06.2025 | Florian (JS) [Repository](https://github.com/Flaverus/crafting_interpreters/tree/main/JavaScript) <br> Tobi (Scala) [Repository](https://github.com/poeik/lox) <br> Aaron (Haskell) [Repository](https://github.com/Aaronmacaron/lox) |
 | 13.06.2025 | Janic (Rust) <br> Sebastian (Rust) <br> Cyrill (Rust) |
 
 ## Autumn Semester 2024
