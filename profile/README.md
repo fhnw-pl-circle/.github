@@ -24,7 +24,7 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 | 23.05.2025 | 12      |
 | 30.05.2025 | 13      |
 | 06.06.2025 | Florian (JS) [Repository](https://github.com/Flaverus/crafting_interpreters/tree/main/JavaScript) <br> Tobi (Scala) [Repository](https://github.com/poeik/lox) <br> Aaron (Haskell) [Repository](https://github.com/Aaronmacaron/lox) |
-| 13.06.2025 | Janic (Rust) <br> Sebastian (Rust) <br> Cyrill (Rust) |
+| 13.06.2025 | Janic (Rust) [Repository](https://github.com/janicberger/rusty-lox) <br> Sebastian (Rust) [Repository](https://code.vanwa.ch/shu/crafting-interpreters) <br> Cyrill (Rust) [Repository](https://github.com/Adowrath/lox-the-ultimate) |
 
 ## Autumn Semester 2024
 
