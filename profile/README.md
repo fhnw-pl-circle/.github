@@ -2,6 +2,24 @@
 
 This organisation hosts the repositories from the _PL-Circle_, a group of people interested in programming languages.
 
+## Autumn Semester 2025
+
+This semester we are reading groundbreaking papers in programming languages.
+
+### Schedule
+
+We meet on Fridays from 13:00 to 14:00 via Teams.
+
+| Date | Lead | Paper Title | Paper | Slides |
+|-|-|-|-|-|
+| 03.10.2025 | Aaron | John Backus. Can programming be liberated from the von Neumann style? | [Link](https://dl.acm.org/doi/10.1145/359576.359579) | [Link](https://github.com/fhnw-pl-circle/aut25-paper-reading-circle/blob/main/JohnBackus.pdf)|
+| 17.10.2025 | Cagatay | Peter J. Landin. The next 700 programming languages. | [Link](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)| - |
+| 31.10.2025 | Simon | C. A. R. Hoare. Communicating sequential processes. | [Link](https://dl.acm.org/doi/pdf/10.1145/359576.359585)| - |
+| 14.11.2025 | Dierk | John Hughes. Why Functional Programming Matters. | [Link](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)| - |
+| 28.11.2025 | Sandro | Jean-Yves Girard. Linear Logic: Its Syntax and Semantics | [Link](https://girard.perso.math.cnrs.fr/Synsem.pdf)| - |
+| 12.12.2025 | TBD | TBD | TBD | - |
+
+
 ## Spring Semester 2025
 
 This semester, we read the book [Crafting Interpreters](https://craftinginterpreters.com/contents.html).
