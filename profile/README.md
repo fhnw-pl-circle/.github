@@ -17,7 +17,7 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 | 31.10.2025 | Simon | C. A. R. Hoare. Communicating sequential processes. | [Link](https://dl.acm.org/doi/pdf/10.1145/359576.359585)| - |
 | 14.11.2025 | Dierk | John Hughes. Why Functional Programming Matters. | [Link](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)| - |
 | 28.11.2025 | Sandro | Jean-Yves Girard. Linear Logic: Its Syntax and Semantics | [Link](https://girard.perso.math.cnrs.fr/Synsem.pdf)| - |
-| 12.12.2025 | TBD | TBD | TBD | - |
+| 12.12.2025 | Ruben | John McCarthy - Recursive Functions of Symbolic Expressions and Their Computation by Machine | [Link](https://dl.acm.org/doi/10.1145/367177.367199) | - |
 
 
 ## Spring Semester 2025
