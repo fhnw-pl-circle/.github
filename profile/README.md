@@ -2,6 +2,31 @@
 
 This organisation hosts the repositories from the _PL-Circle_, a group of people interested in programming languages.
 
+## Spring Semester 2026
+
+This semester we are reading [Programming Clojure, Fourth Edition](https://pragprog.com/titles/shcloj4/programming-clojure-fourth-edition/) by Alex Miller.
+
+### Schedule
+
+We meet on Fridays from 13:00 to 14:00 via Teams.
+
+| Date       | Chapter |
+|------------|---------|
+| 27.02.2026 | 1       |
+| 06.03.2026 | 2       |
+| 13.03.2026 | 3       |
+| 20.03.2026 | 4       |
+| 27.03.2026 | 5       |
+| 03.04.2026 | 6       |
+| 10.04.2026 | 🐣 brake|
+| 17.04.2026 | 7       |
+| 24.04.2026 | 8       |
+| 01.05.2026 | 9       |
+| 08.05.2026 | 10      |
+| 15.05.2026 | 11      |
+| 22.05.2026 | 12      |
+| 29.05.2026 | 13      |
+
 ## Autumn Semester 2025
 
 This semester we are reading groundbreaking papers in programming languages.
