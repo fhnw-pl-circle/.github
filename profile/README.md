@@ -6,6 +6,8 @@ This organisation hosts the repositories from the _PL-Circle_, a group of people
 
 This semester we are reading [Programming Clojure, Fourth Edition](https://pragprog.com/titles/shcloj4/programming-clojure-fourth-edition/) by Alex Miller.
 
+We have a [wiki](https://github.com/fhnw-pl-circle/.github/wiki/Programming-Clojure).
+
 ### Schedule
 
 We meet on Fridays from 13:00 to 14:00 via Teams.
