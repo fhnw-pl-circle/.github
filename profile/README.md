@@ -28,7 +28,7 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 | 15.05.2026 | Auffahrtsbrücke ||
 | 22.05.2026 | 10      | NB   |
 | 29.05.2026 | 11      | RH   |
-| 05.06.2026 | 12+13   | ?    |
+| 05.06.2026 | 12+13   | JB   |
 
 ## Autumn Semester 2025
 
