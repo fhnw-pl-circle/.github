@@ -2,6 +2,27 @@
 
 This organisation hosts the repositories from the _PL-Circle_, a group of people interested in programming languages.
 
+## Autumn Semester 2026
+
+This semester we take a closer look at formal verification tools to guarantee that code satisfies its specification, from contracts in the small to modules, architecture, and concurrency in the large.
+
+### Schedule
+
+We meet on Fridays from 13:00 to 14:00 via Teams.
+
+| Date       | Topic                                            | Lead | Repository |
+|------------|--------------------------------------------------|------|------------|
+| 09.10.2026 | [Dafny](https://dafny.org/)                      | JH   | -          |
+| 16.10.2026 | -                                                | -    | -          |
+| 23.10.2026 | -                                                | -    | -          |
+| 30.10.2026 | [Alloy](https://alloytools.org/)                 | NB   | -          |
+| 06.11.2026 | [quint](https://quint.sh/)                       | SL   | -          | 
+| 13.11.2026 | [OpenJML](https://www.openjml.org/)              | RN   | -          |
+| 20.11.2026 | [Spark](https://www.adacore.com/languages/spark) | RHu  | -          |
+| 27.11.2026 | [P](https://p-org.github.io/P/)                  | RHa  | -          |
+| 04.12.2026 | [Lean4](https://lean-lang.org/)                  | JB   | -          |
+
+
 ## Spring Semester 2026
 
 This semester we are reading [Programming Clojure, Fourth Edition](https://pragprog.com/titles/shcloj4/programming-clojure-fourth-edition/) by Alex Miller.
