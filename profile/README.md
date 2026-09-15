@@ -20,7 +20,7 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 | 13.11.2026 | [OpenJML](https://www.openjml.org/)              | RN   | -          |
 | 20.11.2026 | [Spark](https://www.adacore.com/languages/spark) | RHu  | -          |
 | 27.11.2026 | [P](https://p-org.github.io/P/)                  | RHa  | -          |
-| 04.12.2026 | [Lean4](https://lean-lang.org/)                  | JB   | -          |
+| 04.12.2026 | [LEAN](https://lean-lang.org/)                   | JB   | -          |
 
 
 ## Spring Semester 2026
