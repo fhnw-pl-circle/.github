@@ -12,7 +12,7 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 
 | Date       | Topic                                            | Lead | Repository |
 |------------|--------------------------------------------------|------|------------|
-| 09.10.2026 | [Dafny](https://dafny.org/)                      | JH   | -          |
+| 09.10.2026 | [Dafny](https://dafny.org/)                      | JH   | [Link](https://gitlab.fhnw.ch/joel.hauri/dafny-pl-circle) |
 | 16.10.2026 | -                                                | -    | -          |
 | 23.10.2026 | -                                                | -    | -          |
 | 30.10.2026 | [Alloy](https://alloytools.org/)                 | NB   | -          |
