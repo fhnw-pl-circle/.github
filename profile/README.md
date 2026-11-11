@@ -15,9 +15,9 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 | 09.10.2026 | [Dafny](https://dafny.org/)                      | JH   | [Link](https://gitlab.fhnw.ch/joel.hauri/dafny-pl-circle) |
 | 16.10.2026 | -                                                | -    | -          |
 | 23.10.2026 | -                                                | -    | -          |
-| 30.10.2026 | [Alloy](https://alloytools.org/)                 | NB   | -          |
-| 06.11.2026 | [quint](https://quint.sh/)                       | SL   | -          | 
-| 13.11.2026 | [OpenJML](https://www.openjml.org/)              | RN   | -          |
+| 30.10.2026 | [Alloy](https://alloytools.org/)                 | NB   | [Link](https://gitlab.fhnw.ch/noe.brehm/alloy_pl_circle) | 
+| 06.11.2026 | [quint](https://quint.sh/)                       | SL   | [Link](https://gitlab.fhnw.ch/samuel.lenzin1/quint-pl-circle) | 
+| 13.11.2026 | [OpenJML](https://www.openjml.org/)              | RN   | [Link](https://gitlab.fhnw.ch/romain.nykyforchyn/openjml-pl-circle) |
 | 20.11.2026 | [Spark](https://www.adacore.com/languages/spark) | RHu  | -          |
 | 27.11.2026 | [P](https://p-org.github.io/P/)                  | RHa  | -          |
 | 04.12.2026 | [LEAN](https://lean-lang.org/)                   | JB   | -          |
