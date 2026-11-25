@@ -19,7 +19,7 @@ We meet on Fridays from 13:00 to 14:00 via Teams.
 | 06.11.2026 | [quint](https://quint.sh/)                       | SL   | [Link](https://gitlab.fhnw.ch/samuel.lenzin1/quint-pl-circle) | 
 | 13.11.2026 | [OpenJML](https://www.openjml.org/)              | RN   | [Link](https://gitlab.fhnw.ch/romain.nykyforchyn/openjml-pl-circle) |
 | 20.11.2026 | [Spark](https://www.adacore.com/languages/spark) | RHu  | [Link](https://github.com/ruben-hutter/spark-pl-circle) |
-| 27.11.2026 | [P](https://p-org.github.io/P/)                  | RHa  | -          |
+| 27.11.2026 | [P](https://p-org.github.io/P/)                  | RHa  | [Link](https://gitlab.fhnw.ch/robin.hartmann/p-pl-circle) |
 | 04.12.2026 | [LEAN](https://lean-lang.org/)                   | JB   | -          |
 
 
